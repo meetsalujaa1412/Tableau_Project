@@ -1,4 +1,5 @@
 **Hotel Park City Project**
+
 Description - The "Park City Hotel Analysis" project is a comprehensive exploration of the hotel's operations during a specified time frame. This Tableau project dives into the data related to hotel bookings, types of food orders, and various types of bookings to provide valuable insights and improve decision-making within the hotel management.
 Audience - This Tableau project aims to visualize sales data and provide insights for the Hotel Management.
 Features - 
