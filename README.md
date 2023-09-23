@@ -11,5 +11,7 @@ Features -
 
 
 **Contributions are welcome! Feel free to open an issue or submit a pull request.**
+
 Acknowledgments - Dee Naidoo (https://www.udemy.com/course/the-hands-on-masterclass-in-data-analytics-with-tableau/)
+
 Public link for Project - https://public.tableau.com/app/profile/parmeetsingh.saluja/viz/HotelParkCityproject/Dashboard1?publish=yes
