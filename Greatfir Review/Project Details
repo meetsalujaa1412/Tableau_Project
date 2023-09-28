@@ -1,0 +1,36 @@
+
+Project Title: Greatfit's Review Analysis
+
+Company Name: Greatfit
+
+Project Overview:
+Greatfit, a prominent online e-commerce store specializing in ladies' clothing, recognizes the paramount importance of customer feedback in maintaining and enhancing its services. To further understand customer sentiments and improve business strategies, Greatfit has initiated a project that involves the comprehensive analysis of customer reviews using Tableau.
+
+Project Objectives:
+
+Number of Reviews per Rating: This aspect of the project will focus on categorizing customer reviews into different rating segments (e.g., 1-star, 2-star, 3-star, 4-star, and 5-star) and visualizing the distribution of reviews across these ratings. This will provide an overview of the overall customer satisfaction level.
+
+Total, Good, Bad, and % of Bad Reviews: A critical part of the project involves categorizing reviews into "good" and "bad" based on specific criteria, such as sentiment analysis or keywords. The project will also calculate the percentage of bad reviews relative to the total, shedding light on areas that need improvement.
+
+Multiple Charts with Analysis of Different Reviews: Diverse visualizations will be created to provide deeper insights into different aspects of reviews. This includes sentiment analysis, topics discussed in reviews, and trends over time. These visualizations will help identify specific issues or strengths within the customer experience.
+
+Reviews per Recommendation Chart: Understanding the relation between customer recommendations and reviews is crucial. The project will create a chart displaying the number of reviews along with whether the reviewer recommended the product. This will help gauge the impact of recommendations on reviews.
+
+Number of Reviews Mentioning Returning Items: Customer feedback regarding returns is valuable in improving product quality and customer satisfaction. A visualization will showcase the number of reviews that mention returning items, allowing Greatfit to address common issues leading to returns.
+
+Review Count per Division per Rating: Greatfit's product divisions may have varying levels of customer satisfaction. This part of the project will break down review counts by division and further categorize them by rating. This will highlight areas that require focused attention.
+
+Expected Outcomes:
+By leveraging Tableau for this project, Greatfit aims to achieve the following outcomes:
+
+A comprehensive understanding of customer sentiments, satisfaction levels, and areas of improvement.
+Data-driven insights into the effectiveness of product divisions and the impact of recommendations on customer reviews.
+Identification of recurring issues leading to product returns and actionable steps to mitigate them.
+Enhanced decision-making for product development and customer service improvements.
+Improved customer engagement and loyalty through proactive responses to feedback.
+
+**Contributions are welcome! Feel free to open an issue or submit a pull request.**
+
+Acknowledgments - Dee Naidoo (https://www.udemy.com/course/the-hands-on-masterclass-in-data-analytics-with-tableau/)
+
+Project Link - https://public.tableau.com/app/profile/parmeetsingh.saluja/viz/GreatfitReviewProject/Dashboard1
