@@ -1,0 +1,25 @@
+Project Title: Visualizing Stock Performance with Tableau: Meta's Market Insights
+
+Company Name: Meta
+
+Project Overview:
+Meta, a global tech giant, recognizes the importance of monitoring its stock performance in today's dynamic financial markets. To facilitate informed decision-making and provide stakeholders with a comprehensive view of stock data, Meta is initiating a Tableau-driven project. This project aims to visualize key stock-related metrics and insights in an accessible manner.
+
+Project Objectives:
+
+Most Recent Open Price: The project will retrieve and display the most recent open price of Meta's stock. This real-time data point will serve as a reference for investors and analysts.
+
+Most Recent Close Price: Similar to the open price, the most recent close price will be displayed in real-time. This data is crucial for assessing the stock's performance on a daily basis.
+
+% Change Between Open and Close Price: Calculating the percentage change between the open and close prices provides a quick snapshot of daily price movements. This metric will be prominently featured to highlight daily stock performance.
+
+Daily Close Prices: The project will include a comprehensive visualization of Meta's daily close prices over a specified timeframe. This will allow users to track historical price trends and identify patterns.
+
+Dashboard with Detailed Analysis: A dynamic dashboard will be created to present a detailed analysis of Meta's stock performance. This will include interactive charts, historical data, and key performance indicators (KPIs) to provide a deep understanding of the stock's behavior.
+
+Basic Analysis of Stock Performance: In addition to the detailed analysis, a simplified overview of stock performance will be presented on the same dashboard. This basic analysis will include high-level metrics, trend lines, and a summary of key insights.
+
+
+**Contributions are welcome! Feel free to open an issue or submit a pull request.**
+
+Acknowledgments - Dee Naidoo (https://www.udemy.com/course/the-hands-on-masterclass-in-data-analytics-with-tableau/)
