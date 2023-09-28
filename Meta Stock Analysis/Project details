@@ -5,6 +5,10 @@ Company Name: Meta
 Project Overview:
 Meta, a global tech giant, recognizes the importance of monitoring its stock performance in today's dynamic financial markets. To facilitate informed decision-making and provide stakeholders with a comprehensive view of stock data, Meta is initiating a Tableau-driven project. This project aims to visualize key stock-related metrics and insights in an accessible manner.
 
+Data Source - The date is collected from Google sheets using the following function and Code -> 
+Function Name - GOOGLEFINANCE
+Function Implementation -> =GOOGLEFINANCE("META","ALL","01/01/2021",TODAY(),"DAILY")
+
 Project Objectives:
 
 Most Recent Open Price: The project will retrieve and display the most recent open price of Meta's stock. This real-time data point will serve as a reference for investors and analysts.
