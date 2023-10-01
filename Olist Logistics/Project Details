@@ -1,0 +1,54 @@
+Project Name: Olist Logistics Data Visualization and Business Intelligence with Tableau
+Company Name : Olist Logistics
+
+Project Description:
+
+Overview:
+The "Olist Logistics Data Visualization and Business Intelligence with Tableau" project is designed to enhance the efficiency and effectiveness of Olist's logistics operations through comprehensive data analysis and visualization. 
+
+Project Objectives:
+
+Data Integration:
+
+Gather and integrate data from various sources within Olist, including order records, geographical data, and delivery timelines, into a centralized data repository.
+Ensure data accuracy, consistency, and update frequency.
+
+Total Orders per Month:
+Create a visually engaging Tableau dashboard to display the total number of orders processed each month.
+Provide a historical overview and trend analysis to identify seasonality and growth patterns.
+
+Geographical Analysis of Pending Orders:
+Develop interactive maps and charts to analyze the geographical distribution of pending orders.
+Identify regions or areas with high pending order volumes.
+Enable users to drill down into specific regions for detailed insights.
+
+Delayed Orders and Their Count:
+Implement a tracking system to identify and flag delayed orders within the dataset.
+Create visualizations that highlight the count and reasons for delayed orders.
+Generate alerts or notifications for specific delay thresholds.
+Dashboard Development:
+
+Design a comprehensive Tableau dashboard that consolidates insights from the previous sheets.
+Include interactive filters and parameters to allow users to customize their view and explore the data.
+Provide a summary of key performance metrics, trends, and actionable insights for logistics optimization.
+Benefits:
+
+Improved Decision-Making: By visualizing key logistics data, Olist can make informed decisions to enhance efficiency, reduce delays, and improve customer satisfaction.
+
+Real-time Monitoring: The Tableau dashboard provides real-time updates, allowing Olist to track orders, delays, and pending orders as they occur.
+
+Enhanced Efficiency: By identifying regions with high pending orders and the reasons for delays, Olist can optimize its logistics operations and allocate resources effectively.
+
+Data-Driven Strategy: The project empowers Olist to adopt a data-driven approach to logistics management, ensuring that resources are allocated efficiently and customer expectations are met.
+
+Scalability: As Olist grows, the Tableau solution can scale with the organization, accommodating additional data sources and evolving analytics needs.
+
+Conclusion:
+The "Olist Logistics Data Visualization and Business Intelligence with Tableau" project will enable Olist to harness the power of data to streamline its logistics operations. By visualizing order data, tracking delays, and providing actionable insights, Olist will be better equipped to meet customer demands, optimize resources, and drive business growth.
+
+
+**Contributions are welcome! Feel free to open an issue or submit a pull request.**
+
+Acknowledgments - Dee Naidoo (https://www.udemy.com/course/the-hands-on-masterclass-in-data-analytics-with-tableau/)
+
+
